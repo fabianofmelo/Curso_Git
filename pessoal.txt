@@ -2,5 +2,3 @@ Este é o primeiro arquivo do repositório.
 
 agora brincando com o segundo repo
 
-testando git revert
-
